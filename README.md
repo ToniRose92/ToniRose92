@@ -21,7 +21,7 @@ When I'm not poring over data or helping my team level up their customer support
 I get completely lost in the data and love being able to find patterns and insights that other people might miss. I'm excited to take on more data analytics projects and see where my skills can take me next!
 
 ### 📚 Projects 📚
-In my portfolio, you can find my [projects]([https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md](https://github.com/ToniRose92/Portfolio-Guide/blob/main/README.md)) 
+In my portfolio, you can find my [projects](https://github.com/ToniRose92/Portfolio-Guide/blob/main/README.md)
 
 ### 💡 My Skills
 - Data analysis and quality assurance
