@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Introducing Myself 🙋🏻‍♀️
+## Introducing Myself 👋
 
 Hey there, I'm a customer support and team leadership pro who's looking to make the jump into the exciting world of data analytics. I'm a total geek when it comes to SQL, Python, and Excel, and I'm always looking for new and interesting ways to apply my skills to solve real-world business problems.
 
