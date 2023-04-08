@@ -36,7 +36,7 @@ In my portfolio, you can find my [projects](https://github.com/ToniRose92/Portfo
 ### 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
 - Python: NumPy, Pandas (Beginner)
-- Visualisation: Tableau, Matplotlib, Seaborn
+- Visualization: Tableau, Matplotlib, Seaborn
 - Project Management: JIRA
 - Customer Support: ZenDesk
 - Productivity Suite: G Suite
