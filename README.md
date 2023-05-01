@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Introducing Myself 👋
 
-Hey there, I'm a customer support and team leadership pro who's looking to make the jump into the exciting world of data analytics. I'm a total geek when it comes to SQL, Python, and Excel, and I'm always looking for new and interesting ways to apply my skills to solve real-world business problems.
+Hey there, I'm a data analyst with a love for sci-fi, fantasy, and anime, and a passion for the entertainment industry. When I'm not poring over data or learning new skills, you can usually find me geeking out over my favorite shows and movies. 
 
-When I'm not poring over data or helping my team level up their customer support game, you can usually find me gaming or tinkering with new tech. I'm a bit of a sci-fi nerd and love anything that involves space or time travel.
+I'm driven to use my skills to make a positive impact in the world, particularly in addressing disparities and injustices within the entertainment industry. As a DV advocate and survivor myself, I'm committed to promoting diversity, equity, and inclusion in all aspects of my work. 
 
-I get completely lost in the data and love being able to find patterns and insights that other people might miss. I'm excited to take on more data analytics projects and see where my skills can take me next!
+Check out my GitHub Projects to see some of the entertainment-focused projects I've been working on - I'd love to connect with others who share my passion for data and using it to make a difference!
 
 ### 📚 Projects 📚
 In my portfolio, you can find my [projects](https://github.com/ToniRose92/Portfolio-Guide/blob/main/README.md)
@@ -42,11 +42,12 @@ In my portfolio, you can find my [projects](https://github.com/ToniRose92/Portfo
 - Productivity Suite: G Suite
 - Documentation: Confluence
 
-<!--
+
 ### 🙌🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- [Medium](https://katiehuangx.medium.com)
-- [Kaggle](https://www.kaggle.com/katiehuangx)
+- [Linkedin](https://www.linkedin.com/in/tonirgaray/)
+- [Resume Website](https://melantoniams.wixsite.com/cvres)
+
+<!--
 -->
 
 
